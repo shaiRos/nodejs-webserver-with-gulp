@@ -1,3 +1,5 @@
-npm install --save-dev gulp
+# Install node modules using
+`npm install`
 
-npm install --save-dev browser-sync
+# Run with
+`gulp serve`
